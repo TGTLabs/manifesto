@@ -26,6 +26,14 @@ Work with not for
 
 Perspective taking
 
+## Everyone Cares
+
+Care about your team
+
+Care about your app
+
+Care about the ecosystem
+
 ## In all concerns
 
 Check assumptions
