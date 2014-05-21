@@ -1,10 +1,113 @@
-# Public Document
+# The Make, Share, Collaborate Manifesto
 
-All makers, designers, experts in business, artists, engineers, strategists: all of you are creative.
+Version 0.1
 
-Yes you.
+All makers, designers, experts in business, artists, engineers, strategists:
 
-Different disciplines emphasis different aspects of making yet we share some common concerns.
+To deliver on our intention to make useful, usable, healthy, and at times even delightful products and services we seek to spread this set of core principles.
+
+When groups of people use the same words with different meanings or without a shared intention they only succeed in talking past one another. Work stagnates, users get poor experiences.
+
+To remedy this, put down the methods that don't work and ask yourself why. Hold yourself accountable for where you choose to invest your time.
+
+Assumptions aren't inherrently bad - they need to be converted to research questions and hypothesis.  Correctness and fitness for purpose cannot be judged well until you begin testing your assumptions that frame your intent. With assumptions in hand, you can explore hypotheses and ways to test those hypothesis.
+
+Put this flow of creative, engineering, and communication to use and you will see an immediate effect on your team's shared purpose, shared understanding, and readiness to refine a concept or make the product that embodies the concept.
+
+When of us are creative, collaborative professionals, we make better things.
+
+
+
+
+
+
+=====
+=====
+=====
+=====
+=====
+
+
+As we make products and services
+
+Communication is critical in every aspect of what we build and share.
+
+It's not easy
+
+Communicate
+
+
+
+Thinking and doing aren't separate acts,
+
+The worst thing we can do is to be passive and complacent.
+
+Then again, perhaps the worst thing is when groups of people use the same words with different meanings and only succeed in talking past one another.
+
+
+
+
+Methods we've found compatible
+
+* Lean Startup
+* Lean UX
+* Agile Software Development
+* Design Thinking
+* Evidence Based Design
+
+=======
+
+taking a stand for:
+- communication
+- accountability
+- shared purpose
+-
+
+
+taking a stand against:
+- incomunicative
+- avoiding accountability
+- hiding in a heirarchy
+
+
+========
+
+Assumptions permeate.
+
+Create with a shared purpose.
+
+**Respect and integrate across disciplines** Different disciplines emphasis different aspects of making yet we share some common concerns.
+
+**Embrace creative iteration**, enourage rough drafts.
+
+**Use evidence to inform design**,
+
+
+
+
+
+
+We intuitively and through experience know that by working together with empathy and
+
+Some creative practices focus on exploring and expressing concepts,
+
+some focus on making functioning prototype and iterating, others focus on high correctness where the shared expression is only one that passes expert practitioners intense scrutiny.
+
+Pick one, pick a few, pick any and all creative approaches that fit your context.
+
+
+
+No matter which tools and techniques you choose, be sure to collaborate and hold yourself accountable to understanding and communicating your understanding of what you're seeking to make, for what audience/users and their goals, for what business/provider and goals, along with the constraints of your chosen platform, tools, techniques, and skills to work toward those goals.
+
+What evidence of this? In order to make any aspect of a system or product, you and your team need to ship some capability to some audience.
+
+The worst thing we can do is to be passive and complacent.
+
+Then again, perhaps the worst thing is when groups of people use the same words with different meanings and only succeed in talking past one another.
+
+
+
+
 
 ## Everyone Makes
 
@@ -18,7 +121,9 @@ From concept to final form.
 
 Share purpose, common intent,
 
-Share well
+Share well across the whole team adn with external users: accessible, usable,
+
+Iterate, perfet is the enemy of good enough
 
 ## Everyone Collaborates
 
@@ -35,19 +140,46 @@ Care about your app
 Care about the ecosystem
 
 ## In all concerns
+=======
+Yes and
 
-Check assumptions
+Ask why
 
-Make choices based on feedback, expertise, policy, or any context that drives or affects what you're making, why you're making it, who you're making it for, and how you're making it.
+Deliver over document
 
-Seek and offer input and critique. Fresh perspective is gold.
+Business means something being traded. We don't mean the us and them. We are all business people in that we are in given occupations engaging in some form of commerce (trade of funds, resources, or attention).
+
+## Call to Action
+
+* Express and check assumptions
+* Make choices based on feedback, expertise, policy, or any context that drives or affects what you're making, why you're making it, who you're making it for, and how you're making it.
+* Seek and offer input and critique.
+
+
+
+=======
+=======
+=======
+=======
+=======
+=======
+
+## Core Principles In all concerns,  The Make, Share, Collaborate Call to Action
 
 **Making products and services** is far more **complex** and can carry much **meaning** beyond a simple sales transaction. A common
+
+* Express and check assumptions
+* Make choices based on feedback, expertise, policy, or any context that drives or affects what you're making, why you're making it, who you're making it for, and how you're making it.
+* Seek and offer input and critique. Fresh perspective is gold.
+
+
+
+Form clear understanding: shared purpose for your team, working with your clients, ...
 
 Broken assumption of control
 
 
-Thinking and doing aren't separate
+
 
 
 Go choose principles.
@@ -73,10 +205,7 @@ Focus on the flower of collaboration
 
 Many factors impede collaboration. Many of which can be alleviated or lessened by communication and shared intent.
 
-Business means something being traded. We don't mean the us and them. We are business people and we are .....
-- occupation
-- engaging in commerce (trade of funds, resources, or attention)
--
+
 
 
 
@@ -95,7 +224,7 @@ Don't hide in the hierarchy.
 
 
 
- between a client and provider of service.
+between a client and provider of service.
 
 
 
@@ -109,7 +238,6 @@ The trick is to bring about systems and not be frozen.
 
 Holistic: consider a variety of perspectives and techniques to gather information. Use you brain and use your gut. Team up with someone that uses their gut. Make more informed design, engineering, and business decisions.
 
-To make usable, useful, and healthy, systems, services, and products requires a variety of skills, perspectives, brought together with intention.
 
 This is not a method, magic solution, or strict guide. Whether you're looking for such an approach or are weary of methodology dogma and ready to toss them all aside, I ask you to consider these questions and proposition:
 
@@ -123,13 +251,10 @@ Have you ever had useful feedback?
 
 You are a collaborator. Work with and seek a variety of perspectives,
 
-Put down the methods that don't work and ask yourself why. Hold yourself accountable for where you choose to invest your time.
-
 When you see
 
 Make products and services that suck so that you can make and serve ones that don't suck.
 
-TODO: simple paragraphs
 
 The worst thing we can do is to be passive and complacent.
 
@@ -137,17 +262,10 @@ Then again, perhaps the worst thing is when groups of people use the same words 
 
 NOTE: super early thoughts in this section.
 
-Communication is critical in every aspect of what we build and share.
 
 Practice expressing your assumptions.
 
-Correctness and fitness for purpose cannot be judged well until you begin testing your assumptions that frame your intent.
 
-Some creative practices focus on exploring and expressing concepts, some focus on making functioning prototype and iterating, others focus on high correctness where the shared expression is only one that passes expert practitioners intense scrutiny.
-
-Pick one, pick a few, pick any and all creative approaches that fit your context.
-
-No matter which approach you choose, be sure to collaborate and hold yourself accountable to understanding and communicating your understanding of what you're seeking to make, for what audience/users and their goals, for what business/provider and goals, along with the constraints of your chosen platform, tools, techniques, and skills to work toward those goals.
 
 
 build something of quality
