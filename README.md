@@ -1,70 +1,60 @@
-# The Make, Share, Collaborate Manifesto
+# The Make - Share - Collaborate Manifesto
 
-Version 0.3
-
-Collaborate. Hold yourself accountable to understanding and communicating your understandings of what you're seeking to make:
-
-    - with what audience and their goals,
-    - with what business and goals,
-    - with the constraints of your chosen platform, tools, techniques, and skills to work toward those goals.
-
-All makers, designers, experts in business, artists, engineers, strategists:
-
-When groups of people use the same words with different meanings or without a shared intention they only succeed in talking past one another. Work stagnates, users get poor experiences. Poor collaboration leads to living in bubbles of assumption that isolate us from making well informed products.
-
-To remedy this, put down the methods that don't work and ask yourself why. Hold yourself accountable for where you choose to invest your time.
+Version 0.4
 
 Take a stand for: communication, accountability, and shared purpose.
 
-Seek and test assumptions.
 
-Assumptions aren't inherently bad - With assumptions in hand, you can explore hypotheses and ways to test those hypothesis.
+## Make.
 
-Communication is critical in every aspect of what we build and share.
+### Hold yourself accountable for expressing concepts and working things.
 
-Use or invent a flow of creative habits, engineering, and communication.
+*  Make a flow for making things that combines creative habits, engineering, and communication.
+*  Make, begin to build by sketching and iterating.
+*  Make finished-enough things, finished-enough means it's ready to test an assumption, concept, scenario, anything that's testable.
 
-When you collaborate with shared purpose and shared understanding, you're ready individually and as a team to intentionally refine a concept or make the product that embodies the concept.
+Making finished-enough things is the key to making finished-well things as it prepares us to also share and collaborate.  
 
-## Everyone Makes
 
--  Across the whole team, get the ideas out, assumptions are among the ideas and need to be collected.
--  Everyone explores and critiques ideas at all stages.
--  Value the work and evidence of how it is suited over the role that shares the evidence.
+## Share.  
 
-## Everyone Shares
+### Hold yourself accountable to frequent research, critique, and feedback.
 
--  Share purpose, common intent. Know why this group of people is together making a thing.
--  Share well across the whole team and with external users: accessible, usable. Collaborate with transparency.
--  Iterate with trust!
+*  Share purpose, intent and goals. Know why this group of people is together making a thing.
+*  Share across the whole team and with external users. Collaborate with transparency.
+*  Share iterations. Iterate with trust!
 
-## Everyone Collaborates
+Sharing is where usefulness begins. Unshared creations have no effect and no chance to have an effect on their intended audience. Unshared creations have no chance to be the subject of research or feedback of any sort.
 
--  Work with not for.
--  Perspective taking is critical.
--  **Respect and integrate across disciplines** Different disciplines emphasis different aspects of making yet we share some common concerns.
+Share both the purpose why a group of people are together and the results of what you make.
 
-## Everyone Cares
 
--  Care about your team
--  Care about your app
--  Care about the ecosystem
--  Care about results, deliver over document
+## Collaborate.
 
-## Everyone Critiques
+### Hold yourself accountable to understand and communicate what you seek to make.
 
--  Learn the goals of the business and users, advocate for both
--  Describe the design constraints involved in creating the product
--  Recommend alternatives to consider
--  Evaluate those alternatives
--  Use evidence gathered via qualitative and quantitative methods to inform critical exploration
+*  Collaborate with your audience and their goals.
+*  Collaborate with the/your business and its goals.
+*  Collaborate with your chosen platform, tools, and techniques.
 
-## References and Resources
+Express your assumptions and encourage the rest of the team to do the same. Assumptions aren't inherently bad, with assumptions in hand, you can explore hypotheses and ways to test those assumptions / hypotheses.
 
-### Methods we've found compatible
+Poor collaboration leads to living in bubbles of assumption that isolate us from making well informed products. When groups of artists, engineers, strategists, people of any set of skills use the same words with different meanings or without a shared intention they only succeed in talking past one another. Work stagnates, users get poor experiences.
 
--  Lean Startup
--  Lean UX
--  Agile Software Development
--  Design Thinking
--  Evidence Based Design
+Across the whole team, get the ideas out. Everyone explores and critiques ideas at all stages. Be a strong advocate for the goals of both the business and the users. Understand and evaluate alternatives when constraints are identified. Use evidence gathered via qualitative and quantitative methods to inform critical exploration.
+
+To make great experiences and services, first make finished-enough things.
+
+
+## With Empathy and Care.
+
+Care about where you choose to invest your time and how you make an impact on both your collaborators and intended audiences.
+
+Care about your team. Care about your application. Care about the system.  Care about the ecosystem. Care about results, deliver over document.  
+
+
+## This is a way to work.
+
+Decide what this means to you, the teams, and clients you serve. Put it to use.
+
+Become one of the undersigned and give us feedback.
