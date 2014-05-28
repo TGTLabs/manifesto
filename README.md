@@ -1,9 +1,6 @@
 # The Make - Share - Collaborate Manifesto
 
-Version 0.4
-
-Take a stand for: communication, accountability, and shared purpose.
-
+Version 0.5
 
 ## Make.
 
@@ -57,4 +54,10 @@ Care about your team. Care about your application. Care about the system.  Care 
 
 Decide what this means to you, the teams, and clients you serve. Put it to use.
 
-Become one of the undersigned and give us feedback.
+Take a stand for: communication, accountability, and shared purpose.
+
+[Become one of the undersigned](https://docs.google.com/forms/d/1b2nQ8R-HFiIltgpp8RBBLZDOuPi16kMvl0_0qoJiInU/viewform?usp=send_form) and [give us feedback](https://docs.google.com/forms/d/1E22EpG4tFyDs1boFvEJaYcSMr65d6YvCRWa_iDqTX5A/viewform?usp=send_form).
+
+[Sign the manifesto](https://docs.google.com/forms/d/1b2nQ8R-HFiIltgpp8RBBLZDOuPi16kMvl0_0qoJiInU/viewform?usp=send_form).
+
+[See the list of signers](https://docs.google.com/spreadsheet/ccc?key=0AowFRQ9BZ50-dF8tNmE3TUxfbzJGV0ItX1E4dF9NdGc&usp=sharing).
