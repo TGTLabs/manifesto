@@ -8,7 +8,7 @@ Version 0.5
 
 *  Make a flow for making things that combines creative habits, engineering, and communication.
 *  Make, begin to build by sketching and iterating.
-*  Make finished-enough things, finished-enough means it's ready to test an assumption, concept, scenario, anything that's testable.
+*  Make finished-enough things; finished-enough means it's ready to test an assumption, concept, scenario, anything that's testable.
 
 Making finished-enough things is the key to making finished-well things as it prepares us to also share and collaborate.  
 
@@ -17,7 +17,7 @@ Making finished-enough things is the key to making finished-well things as it pr
 
 ### Hold yourself accountable to frequent research, critique, and feedback.
 
-*  Share purpose, intent and goals. Know why this group of people is together making a thing.
+*  Share purpose, intent, and goals. Know why this group of people is together making a thing.
 *  Share across the whole team and with external users. Collaborate with transparency.
 *  Share iterations. Iterate with trust!
 
@@ -34,7 +34,7 @@ Share both the purpose why a group of people are together and the results of wha
 *  Collaborate with the/your business and its goals.
 *  Collaborate with your chosen platform, tools, and techniques.
 
-Express your assumptions and encourage the rest of the team to do the same. Assumptions aren't inherently bad, with assumptions in hand, you can explore hypotheses and ways to test those assumptions / hypotheses.
+Express your assumptions and encourage the rest of the team to do the same. Assumptions aren't inherently bad. With assumptions in hand, you can explore hypotheses and ways to test those assumptions / hypotheses.
 
 Poor collaboration leads to living in bubbles of assumption that isolate us from making well informed products. When groups of artists, engineers, strategists, people of any set of skills use the same words with different meanings or without a shared intention they only succeed in talking past one another. Work stagnates, users get poor experiences.
 
@@ -47,7 +47,7 @@ To make great experiences and services, first make finished-enough things.
 
 Care about where you choose to invest your time and how you make an impact on both your collaborators and intended audiences.
 
-Care about your team. Care about your application. Care about the system.  Care about the ecosystem. Care about results, deliver over document.  
+Care about your team. Care about your application. Care about the system.  Care about the ecosystem. Care about results. Deliver over document.  
 
 
 ## This is a way to work.
