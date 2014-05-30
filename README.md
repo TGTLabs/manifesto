@@ -1,6 +1,6 @@
 # The Make - Share - Collaborate Manifesto
 
-Version 0.5
+Version 0.6
 
 ## Make.
 
