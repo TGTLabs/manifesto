@@ -63,6 +63,9 @@ UX Designer and UI Engineer, Target RAD Team
 **Peter Stromquist**
 Backend Engineer, Target RAD Team
 
+**Elwin Loomis**
+Director Engineering, Target Digital
+
 
 ## [Sign the manifesto](https://docs.google.com/forms/d/1b2nQ8R-HFiIltgpp8RBBLZDOuPi16kMvl0_0qoJiInU/viewform?usp=send_form).
 
