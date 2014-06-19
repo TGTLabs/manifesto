@@ -75,7 +75,7 @@ Mobile Dude, Target RAD Team
 **Josh Renner**
 Developer, Target RAD Team
 
-** Nicole Netland **
+**Nicole Netland**
 UX Researcher and Designer, Target RAD Team
 
 ## [Sign the manifesto](https://docs.google.com/forms/d/1b2nQ8R-HFiIltgpp8RBBLZDOuPi16kMvl0_0qoJiInU/viewform?usp=send_form).
