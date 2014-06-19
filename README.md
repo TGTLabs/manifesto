@@ -66,6 +66,8 @@ Backend Engineer, Target RAD Team
 **Thibault Roux - aka Frenchie**
 French entertainer, Target RAD Team
 
+**Caitlin Hall**
+Learner and Doer, Target RAD Team
 
 
 ## [Sign the manifesto](https://docs.google.com/forms/d/1b2nQ8R-HFiIltgpp8RBBLZDOuPi16kMvl0_0qoJiInU/viewform?usp=send_form).
