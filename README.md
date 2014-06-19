@@ -60,6 +60,9 @@ Take a stand for: communication, accountability, and shared purpose.
 **Rob Stenzinger**
 UX Designer and UI Engineer, Target RAD Team
 
+**Peter Stromquist**
+Backend Engineer, Target RAD Team
+
 
 ## [Sign the manifesto](https://docs.google.com/forms/d/1b2nQ8R-HFiIltgpp8RBBLZDOuPi16kMvl0_0qoJiInU/viewform?usp=send_form).
 
