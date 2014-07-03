@@ -81,6 +81,9 @@ UX Researcher and Designer, Target RAD Team
 **Elwin Loomis**
 Director Engineering, Target Digital
 
+**Arthur Beisang**
+UI/UX Designer, Target RAD Team
+
 ## [Sign the manifesto](https://docs.google.com/forms/d/1b2nQ8R-HFiIltgpp8RBBLZDOuPi16kMvl0_0qoJiInU/viewform?usp=send_form).
 
 [See the list of signers](https://docs.google.com/spreadsheet/ccc?key=0AowFRQ9BZ50-dF8tNmE3TUxfbzJGV0ItX1E4dF9NdGc&usp=sharing).
